@@ -3,7 +3,7 @@
 class Node {
     constructor(val) {
         this.val = val
-        this.next = this.next
+        this.next = null
     }
 }
 
